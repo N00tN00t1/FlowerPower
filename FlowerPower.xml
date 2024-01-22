@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GMA3 DataVersion="1.9.7.0">
+    <UserPlugin Name="FlowerPower" Guid="" Author="N00TN00T" Version="0.6.6.6" Path="/FlowerPower">
+        <ComponentLua Name="FlowerPower" Guid="" FileName="FlowerPower.lua" />
+    </UserPlugin>
+</GMA3>
