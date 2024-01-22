@@ -1,4 +1,4 @@
 # FlowerPower
-RGB Disco for MA3
+RGB UI Disco for MA3
 
-This plugin will make your background fade nicely in RGB colors
+This plugin will make your UI backgrounds fade nicely in RGB colors
